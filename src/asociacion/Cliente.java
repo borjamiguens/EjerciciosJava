@@ -6,4 +6,8 @@ public class Cliente {
     String nombre;
     String apellidos;
 
+    public Cliente(String nombre, String Apellido){
+
+    }
+
 }
